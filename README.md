@@ -34,3 +34,7 @@ A clean, animated profile dropdown UI component built with vanilla HTML, CSS, an
 ---
 
 ## File Structure
+profile-dropdown/
+├── index.html       # Markup and SVG icons
+├── style.css        # All styling and animations
+└── script.js        # Toggle, ripple, and click logic
