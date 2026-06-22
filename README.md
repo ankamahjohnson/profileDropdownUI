@@ -6,7 +6,7 @@ A clean, animated profile dropdown UI component built with vanilla HTML, CSS, an
 ## Preview
 
 > Click the avatar ring to toggle the dropdown menu.
-
+View Live 🌐 https://ankamahjohnson.github.io/profileDropdownUI/
 ---
 
 ## Features
